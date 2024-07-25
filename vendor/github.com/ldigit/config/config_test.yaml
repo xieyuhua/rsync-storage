@@ -1,0 +1,40 @@
+demo_string: "this is a string"
+demo_int: 1234567
+demo_bool: true
+demo_float: 0.3214
+demo_array:
+  - array01
+  - array02
+  - array03
+demo_map:
+  map01: "some message"
+  map02: "other message"
+
+demo_struct:
+  - name: John Doe
+    address:
+      street: 123 E 3rd St
+      city: Denver
+      state: CO
+      zip:
+        - 81526
+        - 12345
+  - name: Torben Ad
+    address:
+      street: 皇后大街189号
+      city: 香港
+      state: CN
+      zip:
+        - 88675
+
+demo_multi_level:
+  level1:
+    level2:
+      level3:
+        level4:
+          level5:
+            level6:
+              level7:
+                level8:
+                  level9:
+                    level10: This is level 10
